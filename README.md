@@ -1,20 +1,53 @@
-## Hi there 👋
-
-<!--
-**Rollmac/Rollmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-We are manufacturer of Rubber  and Chrome Rollers for Textile, Paper, Printing, Packaging and various other industries.
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rollmac - Manufacturer of Rubber and Chrome Rollers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .description {
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+        .footer {
+            background-color: #f1f1f1;
+            color: #333;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Rollmac</h1>
+    </div>
+    <div class="container">
+        <h2>Welcome to Rollmac</h2>
+        <p class="description">
+            We are a manufacturer of Rubber and Chrome Rollers for the Textile, Paper, Printing, Packaging, and Plywood Industries.
+        </p>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Rollmac. All rights reserved.</p>
+    </div>
+</body>
