@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+We are manufacturer of Rubber  and Chrome Rollers for Textile, Paper, Printing, Packaging and various other industries.
+
