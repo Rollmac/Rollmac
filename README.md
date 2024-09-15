@@ -61,14 +61,13 @@
              1-2, RIICO Industrial Area,
             <br>
                 Beawar Road, Ajmer, Rajasthan.
-            </br>
-        </p>
+       </p>
     </div>
 
 <div class="container">
         <h2></h2>
         <p class="description">
-                     Beawar Road, Ajmer, Rajasthan
+                    
         </p>
     </div>
 
