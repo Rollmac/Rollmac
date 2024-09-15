@@ -43,26 +43,27 @@
     <div class="container">
         <h2>Welcome to Rollmac</h2>
         <p class="description">
-            We are a manufacturer of Rubber and Chrome Rollers for the Textile, Paper, Printing, Packaging, and Plywood Industries.
+            We are a manufacturer of Rubber and Chrome Rollers for the Textile, Paper, Printing, Packaging, Steel, Mining, Oil, Marine, Automobile, Plywood and various other Industries.
         </p>
+        
     </div>
 
     <div class="container">
         <h2>Contact Us:</h2>
         <p class="description">
-            Mobile: 8005973603
+           Mobile: 8005973603
         </p>
     </div>
 
 <div class="container">
-        <h2>Contact Us:</h2>
+        <h2>Address:</h2>
         <p class="description">
-            Address: 1-2, RIICO Industrial Area,
+             1-2, RIICO Industrial Area,
         </p>
     </div>
 
 <div class="container">
-        <h2>Contact Us:</h2>
+        <h2></h2>
         <p class="description">
                      Beawar Road, Ajmer, Rajasthan
         </p>
