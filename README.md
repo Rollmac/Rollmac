@@ -54,6 +54,21 @@
         </p>
     </div>
 
+<div class="container">
+        <h2>Contact Us:</h2>
+        <p class="description">
+            Address: 1-2, RIICO Industrial Area,
+        </p>
+    </div>
+
+<div class="container">
+        <h2>Contact Us:</h2>
+        <p class="description">
+                     Beawar Road, Ajmer, Rajasthan
+        </p>
+    </div>
+
+    
     <div class="footer">
         <p>&copy; 2024 Rollmac. All rights reserved.</p>
     </div>
