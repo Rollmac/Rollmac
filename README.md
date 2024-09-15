@@ -46,6 +46,14 @@
             We are a manufacturer of Rubber and Chrome Rollers for the Textile, Paper, Printing, Packaging, and Plywood Industries.
         </p>
     </div>
+
+    <div class="container">
+        <h2>Contact Us:</h2>
+        <p class="description">
+            Mobile: 8005973603
+        </p>
+    </div>
+
     <div class="footer">
         <p>&copy; 2024 Rollmac. All rights reserved.</p>
     </div>
